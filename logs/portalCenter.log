@@ -1,0 +1,2 @@
+2018-02-07 10:51:52,430 ERROR [com.alibaba.druid.pool.DruidAbstractDataSource] oracle.jdbc.driver.OracleDriver is deprecated.
+2018-02-07 10:51:53,639 INFO  [com.alibaba.druid.pool.DruidDataSource] {dataSource-1} inited
